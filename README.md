@@ -1,2 +1,2 @@
 # Milo
-A Roblox Studio MCP system multitool all in luau
+A Roblox Studio MCP system multitool in luau and typescript
